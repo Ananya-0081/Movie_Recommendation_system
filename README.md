@@ -35,13 +35,14 @@ For the input:
 
 The system suggests:
 
-Harry Potter and the Order of the Phoenix
-Harry Potter and the Goblet of Fire
-Harry Potter and the Chamber of Secrets
-Harry Potter and the Philosopher's Stone
-Harry Potter and the Prisoner of Azkaban
+-Harry Potter and the Order of the Phoenix
+-Harry Potter and the Goblet of Fire
+-Harry Potter and the Chamber of Secrets
+-Harry Potter and the Philosopher's Stone
+-Harry Potter and the Prisoner of Azkaban
 
 ## 📸 Preview of the Movie Recommendation 
 
 ![Screenshot 2025-07-07 123629](https://github.com/user-attachments/assets/35fbe3d1-91be-4488-9f70-bfa74a1dfb6d)
+
 
