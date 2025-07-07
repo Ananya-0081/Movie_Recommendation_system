@@ -12,10 +12,10 @@ This is a netflix theme based **Movie Recommendation System** built using **Mach
 ---
 
 ## 📂 Project Structure
--app.py            # Streamlit app
--movie.pkl         # Movie titles list
--movie_dict.pkl   # Movie metadata dictionary
--simiilarity.pkl  # Cosine similarity matrix
+- app.py            # Streamlit app
+- movie.pkl         # Movie titles list
+- movie_dict.pkl   # Movie metadata dictionary
+- simiilarity.pkl  # Cosine similarity matrix
 
 
 ---
@@ -35,11 +35,7 @@ For the input:
 
 The system suggests:
 
--Harry Potter and the Order of the Phoenix
--Harry Potter and the Goblet of Fire
--Harry Potter and the Chamber of Secrets
--Harry Potter and the Philosopher's Stone
--Harry Potter and the Prisoner of Azkaban
+Harry Potter and the Order of the Phoenix, Harry Potter and the Goblet of Fire, Harry Potter and the Chamber of Secrets, Harry Potter and the Philosopher's Stone, Harry Potter and the Prisoner of Azkaban
 
 ## 📸 Preview of the Movie Recommendation 
 
